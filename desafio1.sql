@@ -111,7 +111,7 @@ INSERT INTO SpotifyClone.songs (song_name, song_length, album_id) VALUES
 	('Let\'s Be Silly',	132, 4),
 	('Thang Of Thunder', 240, 5),
 	('Words Of Her Life', 185, 5),
-	('Without My Commits', 176, 5),
+	('Without My Streets', 176, 5),
 	('Need Of The Evening',	190, 6),
 	('History Of My Roses',	222, 6),
 	('Without My Clone', 111, 6),
